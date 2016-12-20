@@ -1,0 +1,15 @@
+setupRequired(obs_cfht)
+setupRequired(obs_decam)
+setupRequired(obs_lsstSim)
+setupRequired(obs_subaru)
+setupRequired(obs_test)
+setupRequired(obs_monocam)
+setupRequired(obs_sdss)
+# no repos.yaml entry
+#setupRequired(obs_sst)
+#setupRequired(obs_wiyn)
+#setupRequired(obs_noao_mosaic)
+
+setupOptional(testdata_cfht)
+setupOptional(testdata_subaru)
+setupOptional(testdata_decam)
