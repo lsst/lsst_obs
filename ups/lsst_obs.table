@@ -1,4 +1,6 @@
 setupRequired(obs_cfht)
+setupRequired(obs_comCam)
+setupRequired(obs_ctio0m9)
 setupRequired(obs_decam)
 setupRequired(obs_lsstSim)
 setupRequired(obs_subaru)
