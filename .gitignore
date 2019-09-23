@@ -1,0 +1,5 @@
+_build*
+__pycache__
+.scon*
+version.py
+config.log
