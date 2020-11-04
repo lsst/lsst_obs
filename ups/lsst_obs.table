@@ -4,7 +4,6 @@ setupRequired(obs_decam)
 setupRequired(obs_lsst)
 setupRequired(obs_subaru)
 setupRequired(obs_test)
-setupRequired(obs_sdss)
 
 setupOptional(testdata_cfht)
 setupOptional(testdata_subaru)
