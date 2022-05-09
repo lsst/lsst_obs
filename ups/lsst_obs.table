@@ -2,7 +2,6 @@ setupRequired(obs_cfht)
 setupRequired(obs_decam)
 setupRequired(obs_lsst)
 setupRequired(obs_subaru)
-setupRequired(obs_test)
 
 setupOptional(testdata_cfht)
 setupOptional(testdata_subaru)
