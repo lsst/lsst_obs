@@ -2,6 +2,7 @@ setupRequired(obs_cfht)
 setupRequired(obs_decam)
 setupRequired(obs_lsst)
 setupRequired(obs_subaru)
+setupRequired(obs_rubinGenericCamera)
 
 setupOptional(testdata_cfht)
 setupOptional(testdata_subaru)
