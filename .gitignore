@@ -4,3 +4,4 @@ __pycache__
 version.py
 config.log
 python/*.dist-info/
+python/
