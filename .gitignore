@@ -3,3 +3,5 @@ __pycache__
 .scon*
 version.py
 config.log
+python/*.dist-info/
+python/
